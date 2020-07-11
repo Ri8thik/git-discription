@@ -1,0 +1,12 @@
+import java.util.scanner;
+class main
+{
+public static void main(String args[])
+{
+int a,b;
+Scanner disk = new Scanner(System.in);
+System.out.println("enter the value of a");
+a = disk.nextInt();
+System.out.println(a);
+}
+}
