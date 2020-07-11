@@ -1,0 +1,85 @@
+
+@import"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+margin: 0;
+padding: 0;
+background: url(1234.jpg)no-repeat;
+background-size:cover;
+background-position:center;
+font-family: sans-serif;
+}  
+.login-box
+{
+width: 280px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+color:white;
+
+}
+
+.login-box h1{
+float: left;
+font-size: 10px;
+border-bottom: 1px solid #4caf50;
+margin-bottom: 20px;
+padding: 10px 
+
+}
+.textbox{
+width: 100%;
+overflow: hidden;
+font-size: 18px;
+padding: 8px 0;
+margin: 8px 0;
+border-bottom: 1px solid #4caf50;
+}
+
+.btn{
+width: 100%;
+background: none;
+border: 1px solid #4caf50;
+color: white;
+padding: 1px;
+font-size:10px;
+cursor: pointer;
+margin: 1px 0;
+}
+
+.link-access
+{
+width: 280px;
+position: absolute;
+top: 60%;
+left: 37%;
+transform: translate(-1%,-1%);
+color:black;
+}
+
+.link-access h1{
+float: right;
+font-size: 10px;
+border-bottom: 1px solid #f61302;
+margin-bottom: 20px;
+padding: 1px 
+
+}
+
+.link-access a
+{
+float: right;
+font-size: 10px;
+
+
+
+}
+
+.textbox1{
+width: 100%;
+overflow: hidden;
+font-size: 18px;
+padding: 2px 0;
+margin: 8px 0;
+}
